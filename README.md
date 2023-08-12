@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=GY-Recorder&fontAlign=50&fontColor=343F55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🎞GY-Recorder&fontAlign=70&fontColor=343F55)
 
  <div align="center">
    
@@ -64,9 +64,8 @@
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 23.07 ~ 23.08 | (현재) node.js, mongoDB, React를 이용한 팀프로젝트 개발 | 팀 프로젝트 |
-| 23.06 ~ 23.07 | node.js와 mongoDB를 활용한 로그인 기능 구현 | 안산 이젠컴퓨터아카데미 |
-| 23.06 ~ 23.07 | 리액트를 활용한 감정일기장 개발 | 개인 프로젝트 |
+| 23.07 ~ 23.08 | React를 활용한 스무고개(MBTI)책 추천 사이트 프로젝트 | 팀 프로젝트 |
+| 23.06 ~  Run.. | JS 기본 다지기 | 개인 프로젝트 |
 | 23.06 | React를 사용한 Todo List | 개인 프로젝트 |
 | 23.05 ~ 23.06 | JSP 팀 프로젝트 | 팀 프로젝트 |
 | 23.04 ~ 23.05 | 자바 팀 프로젝트 | 팀 프로젝트 |
